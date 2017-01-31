@@ -4,7 +4,7 @@
   "description": "The front-end for movies api made with node and mongo",
   "author": "Eslam nasser",
   "private": true,
-  "main": "./bin/www",
+  "main": "./build/dev-server.js",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js"
